@@ -14,7 +14,7 @@ To complete this project, we used a GeoJSON earthquake data from the USGS websit
 <img width="1231" alt="image" src="https://user-images.githubusercontent.com/85265816/139952187-15ea6293-a5da-4d7f-a6e4-c7cc774c1c1a.png">
 
 
-* You can select one of three different different map styles, such as the Dark theme shown below:
+* You can select one of three different different map styles, such as the Satelite theme shown below:
 <img width="1215" alt="image" src="https://user-images.githubusercontent.com/85265816/139952350-70d67427-18bd-4a87-bfd1-1dc1be33809b.png">
 
 * You can also toggle the Earthquakes to show or not-show, as well as the Tectonic Plates.
