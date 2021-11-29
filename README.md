@@ -1,4 +1,4 @@
-# Mapping_Earthquakes_Challenge
+# Mapping_Earthquakes
 Using Leaflet.js, D3.js, and GeoJSON.
 # Resources
 Earthquake GeoJSON data
