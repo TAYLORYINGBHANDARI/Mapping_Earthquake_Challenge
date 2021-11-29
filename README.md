@@ -1,12 +1,30 @@
 # Mapping_Earthquakes
 Using Leaflet.js, D3.js, and GeoJSON.
-# Resources
-Earthquake GeoJSON data
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
 
 # Execution:
 
-To complete this project, we used a GeoJSON earthquake data from the USGS website and retrieved geographical coordinates and the magnitudes of earthquakes for the last seven days. We then add the data to a map, including various different map styles. We also allow the user to toggle the earthquake markers or tectonic plate lines on-and-off.
+To Create an interactive Earthquake maps 
+I used a GeoJSON earthquake data from the USGS website and retrieved geographical coordinates and the magnitudes of earthquakes for the last seven days.Then adding the data to a map, including various different map styles. This interactive mapp also will allow the user to toggle the earthquake markers or tectonic plate lines on-and-off.
+
+
+## Data Source:
+
+* GeoJson file for Tectonic Plates retrieved from GitHub repository: https://github.com/fraxen/tectonicplates/tree/master/GeoJSON
+* GeoJson file for Earthquakes for the past 7 days retrieved via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+* GeoJson file for Major Earthquakes (M4.5+) for the past 7 days via API call from USGS website: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+
+## Software:
+
+Mapbox API static/js/challenge_logic.js
+VS Code and Chrome Developer Tools
+## Languages:
+
+JavaScript,CSS,HTML
+
+## Libraries:
+
+D3, Leaflet
 
 # Examples:
 
