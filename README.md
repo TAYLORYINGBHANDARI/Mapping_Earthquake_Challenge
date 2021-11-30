@@ -26,6 +26,12 @@ JavaScript,CSS,HTML
 
 D3, Leaflet
 
+
+
+https://user-images.githubusercontent.com/85265816/144127309-c168a220-e3b1-4a14-8017-a3a74ae77fcb.mov
+
+
+
 # Examples:
 
 * When you load the page, it defaults to the Streets view with both the Earthquakes and Tectonic Plate overlays engaged. The legend shows you the color coding for various magnitudes.
